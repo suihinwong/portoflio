@@ -7,4 +7,4 @@ IST736_Final_Proj_Sentiment.ipynb: getting the sentiment score. \
 IST736_Final_Project.ipynb: code for the final project. \
 IST736_Final_proj_clustering.ipynb: code for the clustering part. \
 IST736_Final_project_word_cloud.ipynb: code to build the word cloud. \
-IST_736_Project_EDA.py: code the EDA part. \
+IST_736_Project_EDA.py: code the EDA part.
