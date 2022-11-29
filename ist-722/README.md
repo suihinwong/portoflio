@@ -1,3 +1,4 @@
+# IST-722
 This folder included the final project for IST-722 such as cube, detail dimensional modeling, high level modeling and the project.
 final_project_722.pbix: this is the powerBI file for the visualization for sales analysis.
 Group_4_Presentation.pptx: group presentation powerpoint
